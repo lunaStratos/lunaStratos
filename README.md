@@ -10,7 +10,15 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 ### 🧪 Experience
 
-챗봇 제작, 웹개발, 리액트 프
+다음과 같은 Api를 경험하였습니다.
+<div>
+<img src="https://img.shields.io/badge/Google Map-4285F4?style=flat-square&logo=Google Map&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Naver Map-03C75A?style=flat-square&logo=Naver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat-square&logo=GoogleAssistant&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=Mapbox&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&logo=PayPal&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Korea Weather Api-000000?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+</div>
 
 ### 🎯Target
 
@@ -65,12 +73,7 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 </a>&nbsp;
 
 
-<div>
-<img src="https://img.shields.io/badge/GoogleMap-4285F4?style=flat-square&logo=GoogleMap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/NaverMap-03C75A?style=flat-square&logo=Naver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat-square&logo=GoogleAssistant&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/GoogleMap-4285F4?style=flat-square&logo=GoogleMap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-</div>
+
 
 
 
