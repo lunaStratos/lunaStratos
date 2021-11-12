@@ -14,8 +14,7 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 - Backend Dev (Java, Kotlin(Coroutine), Go, Nodejs)
 - Frontend Dev (React, Jsp, JavaScript)
 - DB (Mysql, MariaDb, Ms-Sql(Procedure), Jpa)
-- 앱 심사 (Google Japan -  Google Assistant Third Party app)
-
+- 앱 심사 (Google Japan : Google Assistant Third Party app)
 - 다음과 같은 ✨Api를 경험하였습니다.
 
 <div>
@@ -93,11 +92,3 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
-
-
-
-
-
-
-
-
