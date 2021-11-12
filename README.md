@@ -10,7 +10,7 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 ### 🧪 Experience
 
-챗봇 제작, 웹개발, 리액트 프론
+챗봇 제작, 웹개발, 리액트 프
 
 ### 🎯Target
 
@@ -29,7 +29,7 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
-<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
@@ -63,5 +63,16 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
+
+
+<div>
+<img src="https://img.shields.io/badge/GoogleMap-4285F4?style=flat-square&logo=GoogleMap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/NaverMap-03C75A?style=flat-square&logo=Naver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat-square&logo=GoogleAssistant&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/GoogleMap-4285F4?style=flat-square&logo=GoogleMap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+</div>
+
+
+
 
 
