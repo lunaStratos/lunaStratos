@@ -3,6 +3,9 @@
 I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 
+
+<img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 <h3>🛠사용언어</h3>
 
 <h4>언어</h4>
@@ -10,7 +13,7 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
-<img src="https://img.shields.io/badge/Kotline-7F52FF?style=flat-square&logo=Kotline&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
