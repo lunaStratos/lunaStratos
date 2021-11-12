@@ -8,25 +8,47 @@
 
 I'm FrontEnd & BackEnd Web Developer using Java and React.
 
+
 ### 🧪 Experience
 
-다음과 같은 Api를 경험하였습니다.
+- Backend Dev (Java, Kotlin(Coroutine), Go, Nodejs)
+- Frontend Dev (React, Jsp, JavaScript)
+- DB (Mysql, MariaDb, Ms-Sql(Procedure), Jpa)
+- 앱 심사 (Google Japan -  Google Assistant Third Party app)
+
+- 다음과 같은 ✨Api를 경험하였습니다.
+
 <div>
-<img src="https://img.shields.io/badge/Google Map-4285F4?style=flat-square&logo=Google Maps&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Naver Map-03C75A?style=flat-square&logo=Naver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat-square&logo=GoogleAssistant&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=Mapbox&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&logo=PayPal&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Korea Weather Api-000000?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Google Map-4285F4?style=flat-square&logo=Google Maps&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>&nbsp;
+<img src="https://img.shields.io/badge/Naver Map-03C75A?style=flat-square&logo=Naver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=Mapbox&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Clova Chatbot-00C300?style=flat-square&logo=Line&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat-square&logo=GoogleAssistant&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Paypal-00457C?style=flat-square&logo=PayPal&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Korea Weather Api-000000?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
 </div>
 
 ### 🎯Target
 
 자료구조 & 알고리즘 공부, Go Backend
 
+##  🏆 수상
+
+- 2009 Google Knol 지식공모전 최우수
+- 2010 Google Korea 나만의 지식스토리 마케팅 공모전 대상
+- 2018 SK Telecom 1회 Nugu 개발공모전 우수상(2등)
+- 2019 SK Telecom 2회 Nugu 개발공모전 우수상(3등)
+- 2019 SK Telecom 3회 Nugu 개발공모전 다작상
 
 
-<h3>🛠사용언어</h3>
+### 🛠사용언어
 
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
