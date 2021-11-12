@@ -12,7 +12,7 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 다음과 같은 Api를 경험하였습니다.
 <div>
-<img src="https://img.shields.io/badge/Google Map-4285F4?style=flat-square&logo=Google Map&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Google Map-4285F4?style=flat-square&logo=Google Maps&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Naver Map-03C75A?style=flat-square&logo=Naver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Google Assistant-4285F4?style=flat-square&logo=GoogleAssistant&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=Mapbox&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
