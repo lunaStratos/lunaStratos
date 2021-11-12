@@ -2,11 +2,14 @@
 
 I'm FrontEnd & BackEnd Web Developer using Java and React.
 
+ㅇ
 
 
 <img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 <img src="https://img.shields.io/badge/stratos4-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
+<img src="https://img.shields.io/badge/LostMan-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 <h3>🛠사용언어</h3>
 
@@ -30,21 +33,29 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
-
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
-
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+
+<img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 
 
