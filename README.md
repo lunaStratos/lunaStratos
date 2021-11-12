@@ -1,8 +1,14 @@
-### Hi there 👋, 
+## Hi there 👋, 
 
 I'm FrontEnd & BackEnd Web Developer using Java and React.
 
-ㅇ
+### 🧪 Experience
+
+
+
+### 🎯Target
+
+자료구조 & 알고리즘 공부, Go Backend
 
 
 <img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
