@@ -1,21 +1,22 @@
 ## Hi there 👋, 
 
+<div
+<img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/stratos4-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/LostMan-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+</div>
+
 I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 ### 🧪 Experience
 
-
+챗봇 제작, 웹개발, 리액트 프론
 
 ### 🎯Target
 
 자료구조 & 알고리즘 공부, Go Backend
 
 
-<img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-<img src="https://img.shields.io/badge/stratos4-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-<img src="https://img.shields.io/badge/LostMan-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 <h3>🛠사용언어</h3>
 
