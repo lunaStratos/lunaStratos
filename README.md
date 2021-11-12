@@ -6,6 +6,8 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 <img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
+<img src="https://img.shields.io/badge/stratos4-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 <h3>🛠사용언어</h3>
 
 <h4>언어</h4>
@@ -38,7 +40,4 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 
-
-
-- 📫 How to reach me: LunaStratos@gmail.com
 
