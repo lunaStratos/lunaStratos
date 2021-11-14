@@ -1,9 +1,9 @@
-## Hi there 👋, 
+## Hello World! 👋
 
-<div
-<img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/stratos4-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/LostMan-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<div>
+<img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<a href="https://www.linkedin.com/in/stratos4/" target="_blank"><img src="https://img.shields.io/badge/stratos4-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/LunaStratos-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
 I'm FrontEnd & BackEnd Web Developer using Java and React.
@@ -11,11 +11,13 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 
 ### 🧪 Experience
 
-- Backend Dev (Java, Kotlin(Coroutine), Go, Nodejs)
-- Frontend Dev (React, Jsp, JavaScript)
-- DB (Mysql, MariaDb, Ms-Sql(Procedure), Jpa)
-- 앱 심사 (Google Japan : Google Assistant Third Party app)
-- 다음과 같은 ✨Api를 경험하였습니다.
+- Backend Dev : Java, Kotlin(Coroutine), Go, Node.Js
+- Frontend Dev : React, Jsp, JavaScript
+- DB : Mysql, MariaDB, Ms-Sql(Procedure), JPA
+- App : Flutter, Andorid (Java, Kotlin)
+- 앱 심사 : Google Assistant Third Party app(Google Japan)
+- 언어 : 한국어, English, 日本語
+- 다음과 같은 ✨Api를 경험 하였습니다.
 
 <div>
 <img src="https://img.shields.io/badge/Google Map-4285F4?style=flat-square&logo=Google Maps&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -34,9 +36,10 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 </a>&nbsp;
 </div>
 
-### 🎯Target
+### 🎯 현재 보는 것. 
 
 자료구조 & 알고리즘 공부, Go Backend
+
 
 ##  🏆 수상
 
@@ -62,7 +65,7 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
-<img src="https://img.shields.io/badge/Nodedotjs-339933?style=flat-square&logo=Node.js&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=Node.js&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
