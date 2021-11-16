@@ -34,6 +34,16 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Korea Weather Api-000000?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
+<img src="https://img.shields.io/badge/Korea Micro Dust Api-000000?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Korea Seoul Metro Api-FF9E0F?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Korea Bus Api-A9225C?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Korea GasStation Price Api-FF9E0F?style=flat-square&logo=&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Google Health-4285F4?style=flat-square&logo=Google&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
 </div>
 
 ### 🎯 현재 보는 것. 
@@ -94,4 +104,7 @@ I'm FrontEnd & BackEnd Web Developer using Java and React.
 </a>&nbsp;
 
 <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google cloud&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 </a>&nbsp;
