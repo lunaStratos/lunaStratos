@@ -6,12 +6,12 @@
 <a href=""><img src="https://img.shields.io/badge/LunaStratos-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-I'm FrontEnd & BackEnd Web Developer using Java and React.
+<br>I'm FrontEnd & BackEnd Web Developer using Java and React.
+
 안녕하세요. 프론트와 백엔드 개발을 하는 개발자입니다.
-백엔드는 주로 Java kotlin으로 개발을 하며 Jsp와 React로 프론트엔드를 개발합니다.
-SQL은 MYsql와 MaraiDb로 하며 MongoDB를 하기도 합니다.
-현재는 회사 근무중이기에 연락이 필요하신 경우 dev.LunaStratos@gmail.com 로 연락주시면 되겠습니다. 
-나머지 정보는 Github와 Notion을 참조해 주시면 되겠습니다.
+<br>백엔드는 주로 Java kotlin으로 개발을 하며 Jsp와 React로 프론트엔드를 개발합니다.
+<br>SQL은 MYsql와 MaraiDb로 하며 MongoDB를 하기도 합니다.
+<br>현재는 회사 근무중이기에 연락이 필요하신 경우 dev.LunaStratos@gmail.com 로 연락주시면 되겠습니다. 
 
 Thank you.
 감사합니다.
