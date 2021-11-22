@@ -77,8 +77,6 @@ Thank you.
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
