@@ -19,9 +19,10 @@ Thank you.
 
 ### 🧪 Experience
 
-- Backend Dev : Java, Kotlin(Coroutine), Node.Js
+- Backend Dev : Java, Kotlin(Coroutine), Node.Js, go
 - Frontend Dev : React, Jsp, JavaScript, JQUery
-- DB : Mysql, MariaDB, Ms-Sql(Procedure), JPA
+- DB : Mysql, MariaDB, Ms-Sql(Procedure)
+- Orm: JPA, Gorm
 - App : Flutter, Andorid (Java, Kotlin)
 - 앱 심사 : Google Assistant Third Party app(Google Japan)
 - 언어 : 한국어, English, 日本語
@@ -75,6 +76,8 @@ Thank you.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Go-7F52FF?style=flat-square&logo=Go&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
