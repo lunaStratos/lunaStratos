@@ -19,7 +19,7 @@ Thank you.
 
 ### 🧪 Experience
 
-- Backend Dev : Java, Kotlin(Coroutine), Node.Js, go
+- Backend Dev : Java, Kotlin(Coroutine), Node.Js, goLang
 - Frontend Dev : React, Jsp, JavaScript, JQUery
 - DB : Mysql, MariaDB, Ms-Sql(Procedure)
 - Orm: JPA, Gorm
