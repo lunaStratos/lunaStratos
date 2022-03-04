@@ -9,7 +9,7 @@
 
 안녕하세요. 프론트와 백엔드 개발을 하는 개발자입니다.
 <br>백엔드는 주로 Js(node),Java,kotlin으로 개발을 하며 Jsp와 React로 프론트엔드를 개발합니다.
-<br>SQL은 MYsql와 MariaDb를 합니다.
+<br>SQL은 Mysql와 MariaDb를 합니다.
 <br>연락이 필요하신 경우 dev.LunaStratos@gmail.com 로 연락주시면 되겠습니다. 
 
 Thank you.
@@ -18,10 +18,10 @@ Thank you.
 
 ### 🧪 Experience
 
-- Backend Dev : Java, Kotlin(Coroutine), Node.Js, goLang
+- Backend Dev : SpringBoot(Java, Kotlin), Node.Js(express)
 - Frontend Dev : React, Jsp, JavaScript, JQUery
 - DB : Mysql, MariaDB, Ms-Sql(Procedure)
-- Orm: JPA, Gorm
+- Orm: JPA
 - App : Flutter, Andorid (Java, Kotlin)
 - 앱 심사 : Google Assistant Third Party app(Google Japan)
 - 언어 : 한국어, English, 日本語
