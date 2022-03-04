@@ -2,7 +2,6 @@
 
 <div>
 <img src="https://img.shields.io/badge/LunaStratos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<a href="https://www.linkedin.com/in/stratos4/" target="_blank"><img src="https://img.shields.io/badge/stratos4-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/LunaStratos-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
