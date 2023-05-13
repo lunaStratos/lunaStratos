@@ -18,7 +18,7 @@
 - Backend Dev : SpringBoot(Java, Kotlin), Node.Js(express)
 - Frontend Dev : React, Jsp, JavaScript, JQUery
 - DB : Mysql, MariaDB, Ms-Sql(Procedure)
-- Orm: JPA, QueryDSL
+- Orm: JPA, QueryDSL, mybatis
 - App : Flutter, Andorid (Java, Kotlin)
 - 앱 심사 : Google Assistant Third Party app(Google Japan)
 - 언어 : 한국어, English, 日本語
@@ -53,7 +53,6 @@
 
 ### 🎯 현재 보는 것. 
 
-자료구조 & 알고리즘 공부, Go Backend
 
 
 ##  🏆 수상
@@ -68,7 +67,7 @@
 ### 🛠사용언어와 도구
 
 <div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -107,9 +106,8 @@
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
-
 <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google cloud&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat-square&logo=Thymeleaf&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
