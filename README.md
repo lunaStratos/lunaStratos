@@ -19,7 +19,7 @@
 - Frontend Dev : React, Jsp, JavaScript, JQUery
 - DB : Mysql, MariaDB, Ms-Sql(Procedure)
 - Orm: JPA, QueryDSL, mybatis
-- App : Flutter, Andorid (Java, Kotlin)
+- App : Flutter
 - 앱 심사 : Google Assistant Third Party app(Google Japan)
 - 언어 : 한국어, English, 日本語
 - 다음과 같은 ✨Api를 경험 하였습니다.
